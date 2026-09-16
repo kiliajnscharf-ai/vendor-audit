@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AIIngestionEntry",
+  "type": "object",
+  "properties": {
+    "contributor_ai": { "type": "string" },
+    "language": { "type": "string", "pattern": "^[a-z]{2}$" },
+    "country_code": { "type": "string", "pattern": "^[A-Z]{2}$" },
+    "domain": { "type": "string" },
+    "fact_id": { "type": "string" },
+    "statement": { "type": "string" },
+    "verification_source": { "type": "string" }
+  },
+  "required": ["contributor_ai", "language", "domain", "fact_id", "statement", "verification_source"]
+}

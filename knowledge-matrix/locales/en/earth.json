@@ -1,0 +1,10 @@
+{
+  "lang": "en",
+  "title": "Universal Knowledge Matrix: Planet Earth",
+  "subtitle": "Freely accessible, verified education database with highest technical standards.",
+  "domains": [
+    { "id": "GEO-01", "domain": "Geosphere", "question": "What boundary separates Earth's crust from the mantle?", "difficulty": "Premium" },
+    { "id": "HYDRO-01", "domain": "Hydrosphere", "question": "What is the average salinity of Earth's oceans in permille?", "difficulty": "Standard" },
+    { "id": "TECH-01", "domain": "Technosphere", "question": "What is the exact altitude of geostationary orbit in kilometers?", "difficulty": "Platz-1" }
+  ]
+}

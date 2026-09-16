@@ -1,0 +1,10 @@
+{
+  "lang": "pl",
+  "title": "Uniwersalna Matryca Wiedzy: Planeta Ziemia",
+  "subtitle": "Swobodnie dostepna, zweryfikowana baza wiedzy o najwyzszym standardzie technicznym.",
+  "domains": [
+    { "id": "GEO-01", "domain": "Geosfera", "question": "Jaka granica oddziela skorupe ziemska od plaszcza?", "difficulty": "Premium" },
+    { "id": "HYDRO-01", "domain": "Hydrosfera", "question": "Jakie jest srednie zasolenie oceanow w promilach?", "difficulty": "Standard" },
+    { "id": "TECH-01", "domain": "Technosfera", "question": "Jaka jest dokladna wysokosc orbity geostacjonarnej w kilometrach?", "difficulty": "Platz-1" }
+  ]
+}
