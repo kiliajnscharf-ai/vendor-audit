@@ -1,0 +1,39 @@
+{
+  "domains": [
+    {
+      "id": "GEO-01",
+      "domain": "Geosphaere",
+      "question": "Welche Schicht bildet die Grenze zwischen Erdkruste und Erdmantel?",
+      "answer": "Mohorovicic-Diskontinuitaet",
+      "difficulty": "Premium"
+    },
+    {
+      "id": "HYDRO-01",
+      "domain": "Hydrosphaere",
+      "question": "Wie hoch ist der durchschnittliche Salzgehalt der Ozeane in Promille?",
+      "answer": "35",
+      "difficulty": "Standard"
+    },
+    {
+      "id": "ATMO-01",
+      "domain": "Atmosphaere",
+      "question": "In welcher Schicht der Atmosphaere befindet sich die maximale Ozonkonzentration?",
+      "answer": "Stratosphaere",
+      "difficulty": "Standard"
+    },
+    {
+      "id": "BIO-01",
+      "domain": "Biosphaere",
+      "question": "Welches Enzym katalysiert den primaeren Schritt der Kohlenstofffixierung bei C3-Pflanzen?",
+      "answer": "RuBisCO",
+      "difficulty": "Premium"
+    },
+    {
+      "id": "TECH-01",
+      "domain": "Technosphaere",
+      "question": "Welche Hoehe definiert den geostationaeren Orbit (GEO) ueber dem Aequator in Kilometern?",
+      "answer": "35786",
+      "difficulty": "Platz-1"
+    }
+  ]
+}
