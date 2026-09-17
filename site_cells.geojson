@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aktive Funkzelle (50515:31)",
+        "location": "32676 Luegde, Dingelstedtpfad",
+        "band": "5G n28 (700 MHz)",
+        "distance_km": 13.0,
+        "target_ip": "145.254.2.19",
+        "status": "NON-COMPLIANT (Overloaded / Bufferbloat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.321749,
+          51.95732
+        ]
+      }
+    }
+  ]
+}
